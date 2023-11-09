@@ -4,10 +4,6 @@ My name is Mike Tritsch (think of it like Treech) and I am a mutli-faceted music
 ## My skills...
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,express,mysql,nodejs&theme=light)](https://skillicons.dev)
 
-## Get to know me!
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-![303 Magazine](https://img.shields.io/badge/Music_Journalism-303_Magazine?label=303%20Magazine&labelColor=Blue&color=blue)](https://303magazine.com/author/michael-tritsch/)
-
 
 <!--
 **MikeTritsch/MikeTritsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
