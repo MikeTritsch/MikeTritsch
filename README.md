@@ -23,7 +23,6 @@ My name is Mike Tritsch (think of it like Treech) and I am a mutli-faceted music
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-tritsch/)
 [![303 Magazine](https://img.shields.io/badge/303-Magazine-blue)](https://303magazine.com/author/michael-tritsch/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tritsch.mike)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](tritsch.mike@gmail.com)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MikeTritsch&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
