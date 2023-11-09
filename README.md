@@ -25,7 +25,6 @@ My name is Mike Tritsch (think of it like Treech) and I am a mutli-faceted music
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tritsch.mike)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MikeTritsch&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MikeTritsch&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeTritsch&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
