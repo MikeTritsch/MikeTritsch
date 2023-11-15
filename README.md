@@ -23,8 +23,6 @@ My name is Mike Tritsch (think of it like Treech) and I am a multi-faceted music
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-tritsch/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tritsch.mike@gmail.com?subject=GitHub-Connect)
 
-Email: tritsch.mike@gmail.com
-
 # 📝 Other work
 [![303 Magazine](https://img.shields.io/badge/303-Magazine-blue)](https://303magazine.com/author/michael-tritsch/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tritsch.mike)
